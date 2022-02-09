@@ -1,6 +1,6 @@
 # Project
 
-web crawling
-maching learning
-recommendation 
-deep learning
+- web crawling
+- machine learning
+- recommendation 
+- deep learning
